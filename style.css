@@ -1,0 +1,18 @@
+header {
+    height: 100vh;
+    background: linear-gradient(180deg, #201F1E, #7F4F04);
+}
+
+.logo_nav {
+    background-image: url(img/logo_weraw_blanc.svg);
+    background-repeat: no-repeat;
+    height: 80px;
+    
+}
+nav { padding: 10px;
+border: 2px solid red;
+display: flex;
+flex-direction: row;}
+
+.menu li { display: inline; 
+}
